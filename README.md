@@ -21,13 +21,24 @@
 
 ---
 
-# 👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
-
+# Mostafa Ahmed Sabry Abosaif
 ### Flutter Developer | Mobile Application Engineer
 
-I build **modern, scalable, maintainable, and production-ready cross-platform mobile applications** using Flutter & Dart.
+I build modern, scalable, and production-ready cross-platform mobile applications with Flutter & Dart.
 
-I enjoy transforming ideas into real products through **Clean Architecture, Clean Code, modern State Management, API integration, testing, and continuous improvement.**
+Specialized in:
+• Clean Architecture & Clean Code
+• State Management — BLoC, Riverpod
+• RESTful API & Backend Integration
+• Firebase & Supabase
+• CI/CD & Development Workflows
+• Testing & Quality Assurance
+
+Tools & Technologies:
+Git • GitHub • Docker • Postman • SQLite • Figma
+
+* 🎓 IT Graduate *
+🚀 Focused on building reliable software and continuously improving as a developer.
 
 ---
 
