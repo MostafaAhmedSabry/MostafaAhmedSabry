@@ -1,16 +1,3 @@
-<!-- ========================================================= -->
-<!--                       HERO SECTION                        -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<p align="center">
-  <img
-    src="./assets/profile-banner.png"
-    alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
-    width="100%"
-  />
-</p>
 
 <!-- ========================================================= -->
 <!--                    TYPING ANIMATION                       -->
