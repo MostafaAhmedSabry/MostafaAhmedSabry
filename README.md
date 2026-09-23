@@ -4,100 +4,115 @@
 
 <div align="center">
 
-  <!-- ===================== PROFILE IMAGE ===================== -->
+  <!-- ========================= HERO ========================= -->
 
-  <img
-    src="./assets/profile-animation.gif"
-    alt="Mostafa Ahmed Sabry Abosaif"
-    width="220"
-  />
+  <table border="0">
+    <tr>
 
-  <br/>
-  <br/>
+      <!-- ====================== LEFT ====================== -->
 
-  <!-- ========================= NAME ========================== -->
+      <td width="68%" valign="middle">
 
-  <h1>
-    Mostafa Ahmed Sabry Abosaif
-  </h1>
+        <h1 align="left">
+          👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
+        </h1>
 
-  <h3>
-    Flutter Developer • Mobile Application Engineer
-  </h3>
+        <h3 align="left">
+          Flutter Developer | Mobile Application Engineer
+        </h3>
 
-  <p>
-    <strong>
-      Building modern, scalable & production-ready
-      <br/>
-      cross-platform mobile applications with Flutter & Dart.
-    </strong>
-  </p>
+        <p align="left">
+          <strong>
+            Building modern, scalable & production-ready
+            <br/>
+            cross-platform mobile applications with Flutter & Dart.
+          </strong>
+        </p>
 
-  <br/>
+        <br/>
 
-  <!-- ==================== TYPING ANIMATION =================== -->
+        <!-- ================= TYPING ANIMATION ================= -->
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
-    alt="Typing Animation"
-  />
+        <p align="left">
+          <img
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Application+Engineer;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC;Always+Learning+%7C+Always+Building"
+            alt="Typing Animation"
+          />
+        </p>
 
-  <br/>
-  <br/>
+        <br/>
 
-  <!-- ========================= BADGES ======================== -->
+        <!-- ===================== SKILLS ====================== -->
 
-  <img
-    src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-    alt="Flutter Developer"
-  />
+        <p align="left">
 
-  <img
-    src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart"
-  />
+          <img
+            src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+            alt="Flutter"
+          />
 
-  <img
-    src="https://img.shields.io/badge/BLoC-State%20Management-00D9FF?style=for-the-badge"
-    alt="BLoC"
-  />
+          <img
+            src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+            alt="Dart"
+          />
 
-  <br/>
-  <br/>
+          <img
+            src="https://img.shields.io/badge/BLoC-State%20Management-00D9FF?style=for-the-badge"
+            alt="BLoC"
+          />
 
-  <img
-    src="https://img.shields.io/badge/Clean%20Architecture-Scalable-7B61FF?style=for-the-badge"
-    alt="Clean Architecture"
-  />
+        </p>
 
-  <img
-    src="https://img.shields.io/badge/REST%20API-Integration-00C896?style=for-the-badge"
-    alt="REST API"
-  />
+        <p align="left">
 
-  <img
-    src="https://img.shields.io/badge/Production-Ready-FF4ECD?style=for-the-badge"
-    alt="Production Ready"
-  />
+          <img
+            src="https://img.shields.io/badge/Clean%20Architecture-Scalable-7B61FF?style=for-the-badge"
+            alt="Clean Architecture"
+          />
 
-  <br/>
-  <br/>
+          <img
+            src="https://img.shields.io/badge/REST%20APIs-Integration-00C896?style=for-the-badge"
+            alt="REST APIs"
+          />
 
-  <!-- ======================== SOCIAL ========================= -->
+        </p>
 
-  <a href="https://github.com/YOUR_USERNAME">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+      </td>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+
+      <!-- ====================== RIGHT ====================== -->
+
+      <td width="32%" align="center" valign="middle">
+
+        <!--
+          Use an animated GIF here.
+          The GIF can alternate between your photo
+          and a Flutter-themed image.
+        -->
+
+        <img
+          src="./assets/profile-animation.gif"
+          alt="Mostafa Ahmed Sabry Abosaif"
+          width="230"
+        />
+
+        <br/>
+        <br/>
+
+        <strong>
+          Flutter Developer
+        </strong>
+
+        <br/>
+
+        <sub>
+          Mobile Application Engineer
+        </sub>
+
+      </td>
+
+    </tr>
+  </table>
 
 </div>
 
@@ -105,69 +120,48 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm a **Flutter Developer & Mobile Application Engineer** focused on building modern, scalable, and production-ready cross-platform applications.
+I build **modern, scalable, maintainable, and production-ready cross-platform mobile applications** using **Flutter & Dart**.
 
-I enjoy transforming ideas into real products through:
+I enjoy transforming ideas into real products through **Clean Architecture, Clean Code, modern State Management, API integration, testing, and continuous improvement.**
 
-- **Flutter & Dart**
-- **Clean Architecture**
-- **Clean Code**
-- **BLoC / Cubit**
-- **RESTful APIs**
-- **Firebase & Supabase**
-- **Testing & Debugging**
-- **Git & GitHub**
+My focus is not only on making applications work, but on building software that is:
 
-My goal is not simply to make an application work.
-
-It's to build software that is:
-
-> **Scalable • Maintainable • Reliable • Testable • Production-Ready**
+**Scalable • Maintainable • Reliable • Testable • Production-Ready**
 
 ---
 
 # ⚡ What I Do
-
-<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 📱 Mobile Development
+### 📱 Mobile Application Development
 
-Building modern and responsive cross-platform applications using **Flutter & Dart**.
+Building modern, responsive, and production-ready mobile applications with **Flutter & Dart**.
 
-<br/>
-
-`Flutter` `Dart` `Responsive UI`
-
-`Custom Widgets` `Navigation`
-
-`Reusable Components`
+- Cross-Platform Applications
+- Responsive & Adaptive UI
+- Custom Widgets
+- Navigation & Routing
+- Reusable Components
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏗️ Architecture
+### 🏗️ Architecture & Clean Code
 
-Designing applications that are easy to maintain, test, and extend.
+Designing applications that are **scalable, maintainable, and easy to extend**.
 
-<br/>
-
-`Clean Architecture`
-
-`Clean Code`
-
-`SOLID`
-
-`OOP`
-
-`Design Patterns`
+- Clean Architecture
+- Clean Code
+- SOLID Principles
+- OOP & Design Patterns
+- Modular Development
 
 </td>
 
@@ -177,46 +171,35 @@ Designing applications that are easy to maintain, test, and extend.
 
 <td width="50%" valign="top">
 
-### 🔄 State Management
+### 🔄 State & Data Management
 
-Managing application state with predictable and scalable patterns.
+Building predictable application flows and managing complex application states efficiently.
 
-<br/>
-
-`BLoC` `Cubit`
-
-`Riverpod`
-
-`State Management`
-
-`Error Handling`
+- BLoC & Cubit
+- Riverpod
+- API & Local Data Management
+- JSON Serialization
+- Error & State Handling
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Backend Integration
+### 🌐 Backend Integration & Engineering
 
-Connecting Flutter applications with reliable backend services.
+Connecting mobile applications with reliable backend services and production workflows.
 
-<br/>
-
-`REST APIs`
-
-`Dio` `HTTP`
-
-`JSON`
-
-`Firebase`
-
-`Supabase`
+- RESTful APIs
+- Dio & HTTP
+- Authentication
+- Firebase & Supabase
+- Git & GitHub
+- CI/CD & Testing
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -228,61 +211,22 @@ Connecting Flutter applications with reliable backend services.
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🧠 Backend & Database
 
 <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,express,postgres,sqlite" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### ⚙️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,androidstudio" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ### 🎨 Design
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-## 🏛️ KHEMET — AI Tourism Platform
-
-### Where Technology Meets Ancient Egypt
-
-</div>
-
-KHEMET is an **AI-powered tourism platform** designed to create an interactive digital experience for exploring ancient Egyptian artifacts.
-
-### ✨ Key Features
-
-| Feature | Description |
-|---|---|
-| 📸 **AI Artifact Recognition** | Identify ancient Egyptian artifacts using AI |
-| 🤖 **AI Tourism Assistant** | Intelligent assistant for tourism and artifact questions |
-| 🔤 **Hieroglyph Translator** | Translate ancient Egyptian hieroglyphic inscriptions |
-| 🔊 **AI Voice Tour Guide** | AI-powered audio tourism experience |
-| 🌍 **Multilingual Support** | Support users from different languages |
-| ❤️ **Favorites & Reviews** | Save artifacts and interact with the platform |
-
-### 🧠 AI Technologies
-
-```text
-TensorFlow
-CLIP
-YOLO
-Llama
-Groq
-ChromaDB
-ElevenLabs
