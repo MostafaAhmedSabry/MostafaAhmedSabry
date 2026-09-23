@@ -5,10 +5,12 @@
 <div align="center">
 
 <p align="center">
-  <img
+   <img
     src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
-    alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
-    width="100%"
+    alt="Mostafa Ahmed Sabry Abosaif"
+    width="180"
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
   />
 </p>
 
