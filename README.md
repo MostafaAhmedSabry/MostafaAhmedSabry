@@ -1,87 +1,92 @@
 <!-- ========================================================= -->
-<!--                       HERO SECTION                        -->
+<!--                    PREMIUM HERO SECTION                   -->
 <!-- ========================================================= -->
 
-<table>
-<tr>
+<div align="center">
 
-<!-- ========================= LEFT SIDE ========================= -->
+  <h1>
+    👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
+  </h1>
 
-<td width="65%" valign="middle">
+  <h3>
+    Flutter Developer | Mobile Application Engineer
+  </h3>
 
-<h1>👋 Hey, I'm Mostafa Ahmed Sabry Abosaif</h1>
+  <p>
+    <strong>
+      Building modern, scalable & production-ready
+      <br/>
+      cross-platform mobile applications with Flutter & Dart.
+    </strong>
+  </p>
 
-<h3>Flutter Developer | Mobile Application Engineer</h3>
+  <br/>
 
-<p>
-  <strong>
-    Building modern, scalable & production-ready
-    cross-platform mobile applications with Flutter & Dart.
-  </strong>
-</p>
+  <!-- ===================== TYPING ANIMATION ===================== -->
 
-<br/>
-
-<!-- ===================== TYPING ANIMATION ===================== -->
-
-<p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
     alt="Typing Animation"
   />
-</p>
 
-<br/>
+  <br/>
+  <br/>
 
-<!-- ========================= BADGES ========================= -->
+  <!-- ========================= BADGES ========================= -->
 
-<img
-  src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-  alt="Flutter"
-/>
+  <img
+    src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+    alt="Flutter Developer"
+  />
 
-<img
-  src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
-  alt="Dart"
-/>
+  <img
+    src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+    alt="Dart"
+  />
 
-<img
-  src="https://img.shields.io/badge/Clean%20Architecture-Scalable-00D9FF?style=for-the-badge"
-  alt="Clean Architecture"
-/>
+  <img
+    src="https://img.shields.io/badge/BLoC-State%20Management-00D9FF?style=for-the-badge"
+    alt="BLoC"
+  />
 
-<br/><br/>
+  <br/>
+  <br/>
 
-<img
-  src="https://img.shields.io/badge/Production-Ready-7B61FF?style=for-the-badge"
-  alt="Production Ready"
-/>
+  <img
+    src="https://img.shields.io/badge/Clean%20Architecture-Scalable-7B61FF?style=for-the-badge"
+    alt="Clean Architecture"
+  />
 
-</td>
+  <img
+    src="https://img.shields.io/badge/REST%20APIs-Integration-00C896?style=for-the-badge"
+    alt="REST APIs"
+  />
 
-<!-- ========================= RIGHT SIDE ========================= -->
+  <img
+    src="https://img.shields.io/badge/Production-Ready-FF4ECD?style=for-the-badge"
+    alt="Production Ready"
+  />
 
-<td width="35%" align="center" valign="middle">
+  <br/>
+  <br/>
 
-<img
-  src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
-  alt="Mostafa Ahmed Sabry Abosaif"
-  width="280"
-  height="340"
-/>
+  <!-- ========================= SOCIAL ========================= -->
 
-<br/><br/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<strong>Flutter Developer</strong>
+  <a href="YOUR_LINKEDIN_URL">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<br/>
-
-<sub>Mobile Application Engineer</sub>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -197,4 +202,3 @@ Connecting mobile applications with reliable backend services and production wor
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
-
