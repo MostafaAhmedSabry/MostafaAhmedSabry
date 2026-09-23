@@ -2,115 +2,141 @@
 
 ### Flutter Developer | Mobile Application Engineer
 
-I build modern, scalable, maintainable, and production-ready cross-platform mobile applications using **Flutter & Dart**.
+**Building scalable, maintainable & production-ready cross-platform mobile applications with Flutter & Dart.**
 
-My focus is on creating clean, reliable, and user-centered applications with a strong emphasis on **Clean Architecture, State Management, API Integration, Testing, and modern development workflows**.
+> Turning ideas into reliable mobile experiences through clean architecture,
+> modern engineering practices, and continuous improvement.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 📱 Specialized in **Flutter Mobile Application Development**
-- 💙 Building cross-platform applications with **Flutter & Dart**
-- 🏗️ Interested in **Clean Architecture, SOLID Principles & Clean Code**
-- 🔄 Experienced with **BLoC, Cubit, Riverpod, Provider & GetX**
-- 🌐 Working with **RESTful APIs & Backend Integration**
-- ☁️ Working with **Firebase & Supabase**
-- 🗄️ Experience with **SQLite & local data persistence**
-- 🧪 Interested in **Software Testing & Quality Assurance**
-- 🔁 Learning and applying **CI/CD & modern development workflows**
-- 🛠️ Working with **Git, GitHub, Docker & Postman**
-- 🎨 Familiar with **Figma & UI/UX workflows**
-- 🎓 IT Graduate
-- 🚀 Continuously learning, building, and improving
+I'm a **Flutter Developer and Mobile Application Engineer** focused on building
+modern, scalable, and production-ready cross-platform applications.
+
+I care about more than just making an application work.  
+My goal is to build software that is:
+
+**Scalable • Maintainable • Reliable • Testable • Production-Ready**
+
+I enjoy transforming ideas into real-world products while continuously
+improving my skills in software architecture, state management, backend
+integration, testing, and modern development workflows.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ What I Build
+
+📱 Cross-Platform Mobile Applications  
+🏗️ Clean & Scalable Application Architecture  
+🧠 Modern State Management Solutions  
+🌐 RESTful API & Backend Integrations  
+☁️ Firebase & Supabase Applications  
+🗄️ Local Data & Offline Storage Solutions  
+🧪 Tested & Reliable Applications  
+🔄 CI/CD & Production Workflows  
+
+---
+
+## 🧠 Core Expertise
 
 ### 📱 Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+- Flutter
+- Dart
+- Responsive UI
+- Adaptive Layouts
+- Material Design
+- Custom Widgets
+- Navigation & Routing
 
-### 🧠 State Management
+### 🏗️ Architecture & Code Quality
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dart" />
-</p>
+- Clean Architecture
+- Clean Code
+- SOLID Principles
+- Object-Oriented Programming
+- Design Patterns
+- Modular & Maintainable Code
 
-**BLoC • Cubit • Riverpod • Provider • GetX**
+### 🔄 State Management
+
+- BLoC
+- Cubit
+- Riverpod
+- Provider
+- GetX
 
 ### 🌐 Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,postman" />
-</p>
+- RESTful APIs
+- JSON
+- Dio
+- HTTP Requests
+- API Integration
+- Error Handling
+- Authentication
+- Backend Integration
 
-**REST APIs • JSON • Dio • API Integration**
+### ☁️ Backend Services
+
+- Firebase
+- Supabase
 
 ### 🗄️ Databases & Storage
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase" />
-</p>
-
-**SQLite • Firebase • Supabase • Local Storage**
-
-### 🏗️ Architecture & Development
-
-**Clean Architecture • SOLID • OOP • Design Patterns • Clean Code**
-
-### 🔄 DevOps & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-**CI/CD • Git • GitHub • Docker**
+- SQLite
+- Firebase
+- Supabase
+- Local Storage
 
 ### 🧪 Testing & Quality
 
-**Flutter Test • Software Testing • API Testing • Debugging • Quality Assurance**
+- Flutter Testing
+- Unit Testing
+- API Testing
+- Debugging
+- Error Handling
+- Quality Assurance
 
-### 🎨 Design & Development Tools
+### 🔄 Development & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio" />
-</p>
+- Git
+- GitHub
+- Docker
+- CI/CD
+- Postman
+- VS Code
+- Android Studio
+
+### 🎨 UI / UX
+
+- Figma
+- Responsive Design
+- User-Centered Interfaces
+- Design Implementation
 
 ---
 
-## 🚀 What I Build
-
-I focus on developing mobile applications that are:
-
-- ⚡ High Performance
-- 📱 Responsive & Cross-Platform
-- 🧩 Scalable & Maintainable
-- 🔐 Secure & Reliable
-- 🏗️ Well Structured
-- 🧪 Tested & Debugged
-- 🎨 User Friendly
-
-My development approach focuses on:
+## ⚙️ My Development Approach
 
 ```text
-Requirement
-    ↓
-Architecture
-    ↓
-UI / UX
-    ↓
-State Management
-    ↓
-API / Backend Integration
-    ↓
-Testing
-    ↓
-Debugging
-    ↓
-CI/CD
-    ↓
-Production
+💡 Idea
+   ↓
+📋 Requirements
+   ↓
+🏗️ Architecture
+   ↓
+🎨 UI / UX
+   ↓
+🧠 State Management
+   ↓
+🌐 API / Backend Integration
+   ↓
+🧪 Testing
+   ↓
+🐛 Debugging
+   ↓
+🔄 CI/CD
+   ↓
+🚀 Production
