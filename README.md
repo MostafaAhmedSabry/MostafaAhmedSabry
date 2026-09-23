@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
+    src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
     alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
     width="100%"
   />
