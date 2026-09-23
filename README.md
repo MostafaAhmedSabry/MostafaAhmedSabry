@@ -1,120 +1,87 @@
 <!-- ========================================================= -->
-<!--                    PREMIUM HERO SECTION                   -->
+<!--                       HERO SECTION                        -->
 <!-- ========================================================= -->
 
-<div align="center">
+<table>
+<tr>
 
-  <!-- ========================= HERO ========================= -->
+<!-- ========================= LEFT SIDE ========================= -->
 
-  <table border="0">
-    <tr>
+<td width="65%" valign="middle">
 
-      <!-- ====================== LEFT ====================== -->
+<h1>👋 Hey, I'm Mostafa Ahmed Sabry Abosaif</h1>
 
-      <td width="68%" valign="middle">
+<h3>Flutter Developer | Mobile Application Engineer</h3>
 
-        <h1 align="left">
-          👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
-        </h1>
+<p>
+  <strong>
+    Building modern, scalable & production-ready
+    cross-platform mobile applications with Flutter & Dart.
+  </strong>
+</p>
 
-        <h3 align="left">
-          Flutter Developer | Mobile Application Engineer
-        </h3>
+<br/>
 
-        <p align="left">
-          <strong>
-            Building modern, scalable & production-ready
-            <br/>
-            cross-platform mobile applications with Flutter & Dart.
-          </strong>
-        </p>
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-        <br/>
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
+    alt="Typing Animation"
+  />
+</p>
 
-        <!-- ================= TYPING ANIMATION ================= -->
+<br/>
 
-        <p align="left">
-          <img
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00D9FF&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Application+Engineer;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC;Always+Learning+%7C+Always+Building"
-            alt="Typing Animation"
-          />
-        </p>
+<!-- ========================= BADGES ========================= -->
 
-        <br/>
+<img
+  src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+  alt="Flutter"
+/>
 
-        <!-- ===================== SKILLS ====================== -->
+<img
+  src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+  alt="Dart"
+/>
 
-        <p align="left">
+<img
+  src="https://img.shields.io/badge/Clean%20Architecture-Scalable-00D9FF?style=for-the-badge"
+  alt="Clean Architecture"
+/>
 
-          <img
-            src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-            alt="Flutter"
-          />
+<br/><br/>
 
-          <img
-            src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
-            alt="Dart"
-          />
+<img
+  src="https://img.shields.io/badge/Production-Ready-7B61FF?style=for-the-badge"
+  alt="Production Ready"
+/>
 
-          <img
-            src="https://img.shields.io/badge/BLoC-State%20Management-00D9FF?style=for-the-badge"
-            alt="BLoC"
-          />
+</td>
 
-        </p>
+<!-- ========================= RIGHT SIDE ========================= -->
 
-        <p align="left">
+<td width="35%" align="center" valign="middle">
 
-          <img
-            src="https://img.shields.io/badge/Clean%20Architecture-Scalable-7B61FF?style=for-the-badge"
-            alt="Clean Architecture"
-          />
+<img
+  src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
+  alt="Mostafa Ahmed Sabry Abosaif"
+  width="280"
+  height="340"
+/>
 
-          <img
-            src="https://img.shields.io/badge/REST%20APIs-Integration-00C896?style=for-the-badge"
-            alt="REST APIs"
-          />
+<br/><br/>
 
-        </p>
+<strong>Flutter Developer</strong>
 
-      </td>
+<br/>
 
+<sub>Mobile Application Engineer</sub>
 
-      <!-- ====================== RIGHT ====================== -->
+</td>
 
-      <td width="32%" align="center" valign="middle">
-
-        <!--
-          Use an animated GIF here.
-          The GIF can alternate between your photo
-          and a Flutter-themed image.
-        -->
-
-        <img
-          src="./assets/profile-animation.gif"
-          alt="Mostafa Ahmed Sabry Abosaif"
-          width="230"
-        />
-
-        <br/>
-        <br/>
-
-        <strong>
-          Flutter Developer
-        </strong>
-
-        <br/>
-
-        <sub>
-          Mobile Application Engineer
-        </sub>
-
-      </td>
-
-    </tr>
-  </table>
-
-</div>
+</tr>
+</table>
 
 <br/>
 
@@ -230,3 +197,4 @@ Connecting mobile applications with reliable backend services and production wor
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
+
