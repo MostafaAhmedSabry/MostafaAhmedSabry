@@ -2,49 +2,92 @@
 <!--                       HERO SECTION                        -->
 <!-- ========================================================= -->
 
-<div align="center">
+<table>
+<tr>
 
-<p align="center">
-   <img
-    src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
-    alt="Mostafa Ahmed Sabry Abosaif"
-    width="180"
-    height="180"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</p>
+<!-- ========================= LEFT SIDE ========================= -->
 
-<!-- ========================================================= -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ========================================================= -->
+<td width="65%" valign="middle">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
-      alt="Typing Animation"
-    />
-  </a>
+<h1>👋 Hey, I'm Mostafa Ahmed Sabry Abosaif</h1>
+
+<h3>Flutter Developer | Mobile Application Engineer</h3>
+
+<p>
+  <strong>
+    Building modern, scalable & production-ready
+    cross-platform mobile applications with Flutter & Dart.
+  </strong>
 </p>
 
 <br/>
 
-<!-- ========================================================= -->
-<!--                         BADGES                             -->
-<!-- ========================================================= -->
+<!-- ===================== TYPING ANIMATION ===================== -->
 
-<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-Scalable-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production-Ready-7B61FF?style=for-the-badge"/>
+<p align="left">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
+    alt="Typing Animation"
+  />
+</p>
 
-</div>
+<br/>
+
+<!-- ========================= BADGES ========================= -->
+
+<img
+  src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+  alt="Flutter"
+/>
+
+<img
+  src="https://img.shields.io/badge/Dart-Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+  alt="Dart"
+/>
+
+<img
+  src="https://img.shields.io/badge/Clean%20Architecture-Scalable-00D9FF?style=for-the-badge"
+  alt="Clean Architecture"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Production-Ready-7B61FF?style=for-the-badge"
+  alt="Production Ready"
+/>
+
+</td>
+
+<!-- ========================= RIGHT SIDE ========================= -->
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="./WhatsApp Image 2026-09-23 at 9.11.23 PM.jpeg"
+  alt="Mostafa Ahmed Sabry Abosaif"
+  width="280"
+  height="340"
+/>
+
+<br/><br/>
+
+<strong>Flutter Developer</strong>
+
+<br/>
+
+<sub>Mobile Application Engineer</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ---
 
-# 👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
-
-### Flutter Developer | Mobile Application Engineer
+# 👋 About Me
 
 I build **modern, scalable, maintainable, and production-ready cross-platform mobile applications** using **Flutter & Dart**.
 
