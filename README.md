@@ -1,63 +1,69 @@
+<!-- ===================== HERO ===================== -->
+
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
+    width="100%"
+  />
+</p>
+
+<!-- ===================== TYPING ANIMATION ===================== -->
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer+%7C+Mobile+Application+Engineer;Building+Scalable+Cross-Platform+Applications;Clean+Code+%7C+Clean+Architecture;Flutter+%2B+Dart+%2B+BLoC+%2B+REST+APIs;Always+Learning+%7C+Always+Building"
+      alt="Typing Animation"
+    />
+  </a>
+</p>
+
+---
+
 # 👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
 
 ### Flutter Developer | Mobile Application Engineer
 
-**Building scalable, maintainable & production-ready cross-platform mobile applications with Flutter & Dart.**
+I build **modern, scalable, maintainable, and production-ready cross-platform mobile applications** using Flutter & Dart.
 
-> Turning ideas into reliable mobile experiences through clean architecture,
-> modern engineering practices, and continuous improvement.
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Flutter Developer and Mobile Application Engineer** focused on building
-modern, scalable, and production-ready cross-platform applications.
-
-I care about more than just making an application work.  
-My goal is to build software that is:
-
-**Scalable • Maintainable • Reliable • Testable • Production-Ready**
-
-I enjoy transforming ideas into real-world products while continuously
-improving my skills in software architecture, state management, backend
-integration, testing, and modern development workflows.
+I enjoy transforming ideas into real products through **Clean Architecture, Clean Code, modern State Management, API integration, testing, and continuous improvement.**
 
 ---
 
-## ⚡ What I Build
+## ⚡ What I Do
 
-📱 Cross-Platform Mobile Applications  
-🏗️ Clean & Scalable Application Architecture  
-🧠 Modern State Management Solutions  
-🌐 RESTful API & Backend Integrations  
-☁️ Firebase & Supabase Applications  
-🗄️ Local Data & Offline Storage Solutions  
-🧪 Tested & Reliable Applications  
-🔄 CI/CD & Production Workflows  
-
----
-
-## 🧠 Core Expertise
+<table>
+<tr>
+<td width="50%">
 
 ### 📱 Mobile Development
 
 - Flutter
 - Dart
 - Responsive UI
-- Adaptive Layouts
-- Material Design
+- Cross-Platform Development
 - Custom Widgets
 - Navigation & Routing
 
-### 🏗️ Architecture & Code Quality
+</td>
+
+<td width="50%">
+
+### 🏗️ Software Engineering
 
 - Clean Architecture
 - Clean Code
 - SOLID Principles
-- Object-Oriented Programming
+- OOP
 - Design Patterns
-- Modular & Maintainable Code
+- Scalable Architecture
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🔄 State Management
 
@@ -67,76 +73,84 @@ integration, testing, and modern development workflows.
 - Provider
 - GetX
 
+</td>
+
+<td>
+
 ### 🌐 Backend & APIs
 
 - RESTful APIs
 - JSON
 - Dio
-- HTTP Requests
+- Authentication
 - API Integration
 - Error Handling
-- Authentication
-- Backend Integration
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### ☁️ Backend Services
 
 - Firebase
 - Supabase
+- Cloud Services
+- Real-Time Solutions
 
-### 🗄️ Databases & Storage
+</td>
 
-- SQLite
-- Firebase
-- Supabase
-- Local Storage
+<td>
 
-### 🧪 Testing & Quality
+### 🧪 Quality & DevOps
 
-- Flutter Testing
 - Unit Testing
 - API Testing
 - Debugging
-- Error Handling
-- Quality Assurance
-
-### 🔄 Development & DevOps
-
 - Git
 - GitHub
-- Docker
 - CI/CD
-- Postman
-- VS Code
-- Android Studio
+- Docker
 
-### 🎨 UI / UX
-
-- Figma
-- Responsive Design
-- User-Centered Interfaces
-- Design Implementation
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ My Development Approach
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,sqlite,git,github,docker,postman,figma,vscode,androidstudio,nodejs,postgres" />
+
+</p>
+
+---
+
+# 🚀 Featured Project
+
+## 🏛️ KHEMET — AI Tourism Platform
+
+<p align="center">
+  <img
+    src="./assets/khemet-banner.png"
+    width="90%"
+    alt="KHEMET AI Tourism Platform"
+  />
+</p>
+
+**KHEMET** is an AI-powered tourism platform designed to create an interactive
+digital experience for exploring ancient Egyptian artifacts.
+
+### ✨ Key Features
 
 ```text
-💡 Idea
-   ↓
-📋 Requirements
-   ↓
-🏗️ Architecture
-   ↓
-🎨 UI / UX
-   ↓
-🧠 State Management
-   ↓
-🌐 API / Backend Integration
-   ↓
-🧪 Testing
-   ↓
-🐛 Debugging
-   ↓
-🔄 CI/CD
-   ↓
-🚀 Production
+📸 AI Artifact Recognition
+🤖 AI Tourism Assistant
+🔤 Hieroglyph Translator
+🔊 AI Voice Tour Guide
+🌍 Multilingual Support
+❤️ Favorites & Reviews
+📱 Cross-Platform Mobile Experience
