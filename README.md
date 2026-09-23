@@ -1,3 +1,16 @@
+<!-- ========================================================= -->
+<!--                       HERO SECTION                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
+    width="100%"
+  />
+</p>
 
 <!-- ========================================================= -->
 <!--                    TYPING ANIMATION                       -->
@@ -139,103 +152,3 @@ Connecting mobile applications with reliable backend services and production wor
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
-
----
-
-# 🚀 Featured Project
-
-## 🏛️ KHEMET — AI Tourism Platform
-
-<p align="center">
-
-<img
-  src="./assets/khemet-banner.png"
-  width="90%"
-  alt="KHEMET AI Tourism Platform"
-/>
-
-</p>
-
-**KHEMET** is an AI-powered tourism platform designed to provide visitors with an interactive digital experience for exploring ancient Egyptian artifacts.
-
-The platform combines **mobile technology, artificial intelligence, and cultural heritage** to create a modern digital tourism experience.
-
----
-
-## ✨ Key Features
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 📸 AI Artifact Recognition
-
-Identify and explore ancient Egyptian artifacts using AI-powered image recognition.
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI Tourism Assistant
-
-An intelligent assistant designed to answer tourism and artifact-related questions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🔤 Hieroglyph Translator
-
-Translate and provide information about ancient Egyptian hieroglyphic inscriptions.
-
-</td>
-
-<td>
-
-### 🔊 AI Voice Tour Guide
-
-Provide an immersive audio experience using AI-powered voice technology.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🌍 Multilingual Support
-
-Support users from different countries through a multilingual experience.
-
-</td>
-
-<td>
-
-### ❤️ Favorites & Reviews
-
-Allow users to save interesting artifacts and interact with the platform.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🧠 AI Technologies
-
-```text
-TensorFlow
-CLIP
-YOLO
-Llama
-Groq
-ChromaDB
-ElevenLabs
