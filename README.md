@@ -5,11 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img
-    src="./assets/profile-banner.png"
-    alt="Mostafa Ahmed Sabry Abosaif - Flutter Developer"
-    width="100%"
-  />
+
 </p>
 
 <!-- ========================================================= -->
@@ -40,7 +36,7 @@
 
 ---
 
-# 👋 Hey, I'm Mostafa Ahmed Sabry Abosaif
+# 👋 Hey, I'm Mostafa Ahmed 
 
 ### Flutter Developer | Mobile Application Engineer
 
